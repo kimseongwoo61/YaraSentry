@@ -2,8 +2,6 @@
 
 ## 1. Class Information
 
----
-
 ### 1) FileSpec Class
 
 - **Primary Functionality:** Display information about the inspected file, including its name, path, and size.
@@ -45,8 +43,6 @@
     - `yaraCallbackFunctionWrapper()`: Static wrapper function for callback function processing in the `scanFile` method.
 
 ## 2. Main Logic Information
-
----
 
 ### 1) main Function
 
