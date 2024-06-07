@@ -1,0 +1,938 @@
+
+
+
+2024-05-31 04:46:41
+C:\Users\kimse\Downloads\yara-4.5.1.zip : Big_Numbers3 [Matched]
+
+
+2024-05-31 04:47:22
+C:\Users\kimse\Downloads\yara-4.5.1.zip : Big_Numbers3 [Matched]
+2024-05-31 04:47:30
+C:\Users\kimse\Downloads\yara-4.5.1.zip : Big_Numbers3 [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : SEH_Save [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : SEH_Init [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : vmdetect [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : anti_dbg [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : disable_dep [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : check_patchlevel [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : win_hook [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : escalate_priv [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : screenshot [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : keylogger [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : cred_ff [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : rat_rdp [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : win_mutex [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : win_registry [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : win_token [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : win_private_profile [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : win_files_operation [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : CRC32_poly_Constant [Matched]
+2024-05-31 04:50:42
+C:\Users\kimse\Downloads\I3GSvcManager.exe : CRC32_table [Matched]
+2024-05-31 04:50:44
+C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe : disable_dep [Matched]
+2024-05-31 04:50:44
+C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe : escalate_priv [Matched]
+2024-05-31 04:50:44
+C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe : win_registry [Matched]
+2024-05-31 04:50:44
+C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe : win_token [Matched]
+2024-05-31 04:50:44
+C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe : win_files_operation [Matched]
+2024-05-31 04:50:44
+C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe : CRC32_poly_Constant [Matched]
+2024-05-31 04:50:44
+C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe : Delphi_Copy [Matched]
+2024-05-31 04:50:45
+C:\Users\kimse\Downloads\Machine learning basics, week 12 (Practice coding-AE).pptx : Big_Numbers1 [Matched]
+2024-05-31 04:50:54
+C:\Users\kimse\Downloads\nos_setup.exe : escalate_priv [Matched]
+2024-05-31 04:50:54
+C:\Users\kimse\Downloads\nos_setup.exe : screenshot [Matched]
+2024-05-31 04:50:54
+C:\Users\kimse\Downloads\nos_setup.exe : win_registry [Matched]
+2024-05-31 04:50:54
+C:\Users\kimse\Downloads\nos_setup.exe : win_token [Matched]
+2024-05-31 04:50:54
+C:\Users\kimse\Downloads\nos_setup.exe : win_files_operation [Matched]
+2024-05-31 04:50:54
+C:\Users\kimse\Downloads\nos_setup.exe : CRC32_poly_Constant [Matched]
+2024-05-31 04:52:48
+C:\Users\kimse\Downloads\ODAintegrationalDemo1-6.zip : CRC32c_poly_Constant [Matched]
+2024-05-31 04:52:49
+C:\Users\kimse\Downloads\yara-4.5.1\bazel\yara_deps.bzl : Big_Numbers3 [Matched]
+2024-05-31 04:52:50
+C:\Users\kimse\Downloads\yara-4.5.1\docs\modules\elf.rst : Big_Numbers1 [Matched]
+2024-05-31 04:52:50
+C:\Users\kimse\Downloads\yara-4.5.1\docs\modules\hash.rst : Big_Numbers1 [Matched]
+2024-05-31 04:52:50
+C:\Users\kimse\Downloads\yara-4.5.1\docs\modules\pe.rst : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:52:50
+C:\Users\kimse\Downloads\yara-4.5.1\docs\modules\pe.rst : Big_Numbers1 [Matched]
+2024-05-31 04:52:50
+C:\Users\kimse\Downloads\yara-4.5.1\docs\writingrules.rst : Big_Numbers1 [Matched]
+2024-05-31 04:52:50
+C:\Users\kimse\Downloads\yara-4.5.1\extra\logo.ai : Big_Numbers1 [Matched]
+2024-05-31 04:52:51
+C:\Users\kimse\Downloads\yara-4.5.1\extra\old-logo.psd : Big_Numbers1 [Matched]
+2024-05-31 04:52:52
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\exception.h : SEH__vectored [Matched]
+2024-05-31 04:52:52
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\grammar.c : BASE64_table [Matched]
+2024-05-31 04:52:52
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\grammar.y : BASE64_table [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\dotnet\dotnet.c : Big_Numbers1 [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\dotnet\dotnet.c : Big_Numbers3 [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\authenticode-parser\countersignature.c : Big_Numbers3 [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe.c : Big_Numbers3 [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe_utils.c : network_udp_sock [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe_utils.c : network_tcp_listen [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe_utils.c : network_tcp_socket [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe_utils.c : network_dns [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe_utils.c : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe_utils.c : Big_Numbers3 [Matched]
+2024-05-31 04:52:53
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\threading.c : win_mutex [Matched]
+2024-05-31 04:52:54
+C:\Users\kimse\Downloads\yara-4.5.1\libyara\tlshc\tlsh_util.c : Big_Numbers1 [Matched]
+2024-05-31 04:52:54
+C:\Users\kimse\Downloads\yara-4.5.1\tests\BUILD.bazel : Big_Numbers3 [Matched]
+2024-05-31 04:52:54
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\05cd06e6a202e12be22a02700ed6f1604e803ca8867277d852e8971efded0650 : screenshot [Matched]
+2024-05-31 04:52:54
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\05cd06e6a202e12be22a02700ed6f1604e803ca8867277d852e8971efded0650 : win_registry [Matched]
+2024-05-31 04:52:54
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\079a472d22290a94ebb212aa8015cdc8dd28a968c6b4d3b88acdd58ce2d3b885 : SEH_Save [Matched]
+2024-05-31 04:52:54
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\079a472d22290a94ebb212aa8015cdc8dd28a968c6b4d3b88acdd58ce2d3b885 : SEH_Init [Matched]
+2024-05-31 04:52:54
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\079a472d22290a94ebb212aa8015cdc8dd28a968c6b4d3b88acdd58ce2d3b885 : anti_dbg [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\756684f4017ba7e931a26724ae61606b16b5f8cc84ed38a260a34e50c5016f59 : vmdetect [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\756684f4017ba7e931a26724ae61606b16b5f8cc84ed38a260a34e50c5016f59 : keylogger [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\756684f4017ba7e931a26724ae61606b16b5f8cc84ed38a260a34e50c5016f59 : Big_Numbers2 [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : SEH_Save [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : SEH_Init [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : win_hook [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : screenshot [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : keylogger [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : win_registry [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : win_private_profile [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : win_files_operation [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386 : Big_Numbers0 [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\pe_imports : SEH_Save [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\pe_imports : SEH_Init [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\pe_imports : anti_dbg [Matched]
+2024-05-31 04:52:55
+C:\Users\kimse\Downloads\yara-4.5.1\tests\data\pe_imports : win_files_operation [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-dotnet.c : Big_Numbers3 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-math.c : Big_Numbers0 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-pe.c : Big_Numbers1 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-pe.c : Big_Numbers3 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-rules.c : vmdetect [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-rules.c : Big_Numbers0 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-rules.c : Big_Numbers1 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\tests\test-rules.c : Big_Numbers3 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\compiler.obj : Big_Numbers1 [Matched]
+2024-05-31 04:52:57
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\exec.obj : Big_Numbers1 [Matched]
+2024-05-31 04:52:58
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\grammar.obj : BASE64_table [Matched]
+2024-05-31 04:52:58
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\lexer.obj : Big_Numbers1 [Matched]
+2024-05-31 04:52:58
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\dotnet\dotnet.obj : Big_Numbers1 [Matched]
+2024-05-31 04:52:58
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\hash\hash.obj : CRC32_poly_Constant [Matched]
+2024-05-31 04:52:58
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\hash\hash.obj : CRC32_table [Matched]
+2024-05-31 04:52:58
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\math\math.obj : Big_Numbers1 [Matched]
+2024-05-31 04:52:59
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\pe\pe_utils.obj : network_udp_sock [Matched]
+2024-05-31 04:52:59
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\pe\pe_utils.obj : network_tcp_listen [Matched]
+2024-05-31 04:52:59
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\pe\pe_utils.obj : network_tcp_socket [Matched]
+2024-05-31 04:52:59
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\pe\pe_utils.obj : network_dns [Matched]
+2024-05-31 04:52:59
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\pe\pe_utils.obj : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:52:59
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\threading.obj : win_mutex [Matched]
+2024-05-31 04:52:59
+C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\tlshc\tlsh_impl.obj : Big_Numbers1 [Matched]
+2024-05-31 04:53:00
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\FileContentIndex\3806fdaa-5cdb-49ad-b555-6b0b30e89ae3.vsidx : Big_Numbers1 [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : DebuggerCheck__RemoteAPI [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : DebuggerHiding__Active [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : DebuggerException__ConsoleCtrl [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : DebuggerException__SetConsoleCtrl [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : ThreadControl__Context [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : SEH__vectored [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : vmdetect [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : disable_dep [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : inject_thread [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : migrate_apc [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : win_mutex [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : Big_Numbers0 [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : Big_Numbers1 [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : OpenSSL_DSA [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : BASE64_table [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : SHA3_constants [Matched]
+2024-05-31 04:53:15
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db : SHA3_interleaved [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : DebuggerCheck__RemoteAPI [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : DebuggerHiding__Active [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : DebuggerException__ConsoleCtrl [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : DebuggerException__SetConsoleCtrl [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : ThreadControl__Context [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : SEH__vectored [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : vmdetect [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : disable_dep [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : inject_thread [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : migrate_apc [Matched]
+2024-05-31 04:53:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch : win_mutex [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : DebuggerCheck__RemoteAPI [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : DebuggerHiding__Active [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : DebuggerException__ConsoleCtrl [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : DebuggerException__SetConsoleCtrl [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : ThreadControl__Context [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : SEH__vectored [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : vmdetect [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : disable_dep [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : inject_thread [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : migrate_apc [Matched]
+2024-05-31 04:53:52
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch : win_mutex [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : DebuggerCheck__RemoteAPI [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : DebuggerHiding__Active [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : DebuggerException__ConsoleCtrl [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : DebuggerException__SetConsoleCtrl [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : ThreadControl__Context [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : SEH__vectored [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : vmdetect [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : disable_dep [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : inject_thread [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : migrate_apc [Matched]
+2024-05-31 04:54:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6207976571fa8988\COMPILER.ipch : win_mutex [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : DebuggerCheck__RemoteAPI [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : DebuggerHiding__Active [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : DebuggerException__ConsoleCtrl [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : DebuggerException__SetConsoleCtrl [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : ThreadControl__Context [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : SEH__vectored [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : vmdetect [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : disable_dep [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : inject_thread [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : migrate_apc [Matched]
+2024-05-31 04:54:39
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\6893eece4a54ced\MAIN.ipch : win_mutex [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : DebuggerCheck__RemoteAPI [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : DebuggerHiding__Active [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : DebuggerException__ConsoleCtrl [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : DebuggerException__SetConsoleCtrl [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : ThreadControl__Context [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : SEH__vectored [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : vmdetect [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : disable_dep [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : inject_thread [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : migrate_apc [Matched]
+2024-05-31 04:54:56
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\fc9c183fd41bdf06\ARGS.ipch : win_mutex [Matched]
+2024-05-31 04:54:57
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Solution.VC.db : vmdetect [Matched]
+2024-05-31 04:54:57
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Solution.VC.db : Big_Numbers1 [Matched]
+2024-05-31 04:54:57
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Solution.VC.db : Big_Numbers3 [Matched]
+2024-05-31 04:54:58
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara.log : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : create_service [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : network_udp_sock [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : network_tcp_listen [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : network_tcp_socket [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : network_dns [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : escalate_priv [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : cred_local [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : win_mutex [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : win_registry [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : win_token [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : Big_Numbers1 [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : Advapi_Hash_API [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : Crypt32_CryptBinaryToString_API [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : CRC32_poly_Constant [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : CRC32_table [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : BLOWFISH_Constants [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : MD5_Constants [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : RIPEMD160_Constants [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : SHA1_Constants [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : SHA512_Constants [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : SHA2_BLAKE2_IVs [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : WHIRLPOOL_Constants [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : DES_Long [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : OpenSSL_DSA [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : RijnDael_AES [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : BASE64_table [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : Chacha_256_constant [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : ecc_order [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : SHA3_constants [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : SHA3_interleaved [Matched]
+2024-05-31 04:55:08
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.lib : SipHash_big_endian_constants [Matched]
+2024-05-31 04:55:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Debug\libyara64.pdb : win_mutex [Matched]
+2024-05-31 04:55:09
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara.log : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : create_service [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : network_udp_sock [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : network_tcp_listen [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : network_tcp_socket [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : network_dns [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : escalate_priv [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : cred_local [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : win_mutex [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : win_registry [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : win_token [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : Big_Numbers1 [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : Advapi_Hash_API [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : Crypt32_CryptBinaryToString_API [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : CRC32_poly_Constant [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : CRC32_table [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : BLOWFISH_Constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : MD5_Constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : RIPEMD160_Constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : SHA1_Constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : SHA512_Constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : SHA2_BLAKE2_IVs [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : WHIRLPOOL_Constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : DES_Long [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : OpenSSL_DSA [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : RijnDael_AES [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : BASE64_table [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : Chacha_256_constant [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : ecc_order [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : SHA3_constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : SHA3_interleaved [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.lib : SipHash_big_endian_constants [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\libyara\Release\libyara64.pdb : win_mutex [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.Jansson.x64.1.1.0\YARA.Jansson.x64.1.1.0.nupkg : Big_Numbers1 [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.Jansson.x86.1.1.0\YARA.Jansson.x86.1.1.0.nupkg : Big_Numbers1 [Matched]
+2024-05-31 04:55:19
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\include\openssl\dsa.h : OpenSSL_DSA [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : Big_Numbers1 [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : Big_Numbers2 [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : Big_Numbers3 [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : BLOWFISH_Constants [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : MD5_Constants [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : RIPEMD160_Constants [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : SHA1_Constants [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : SHA512_Constants [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : SHA2_BLAKE2_IVs [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : WHIRLPOOL_Constants [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : DES_Long [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : OpenSSL_DSA [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : RijnDael_AES [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : BASE64_table [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : Chacha_256_constant [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : ecc_order [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : SHA3_constants [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : SHA3_interleaved [Matched]
+2024-05-31 04:55:28
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libcrypto.lib : SipHash_big_endian_constants [Matched]
+2024-05-31 04:55:30
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libssl.lib : Big_Numbers1 [Matched]
+2024-05-31 04:55:30
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\libssl.lib : Big_Numbers2 [Matched]
+2024-05-31 04:55:31
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\lib\ossl_static.pdb : OpenSSL_DSA [Matched]
+2024-05-31 04:55:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x64.1.1.1\YARA.OpenSSL.x64.1.1.1.nupkg : Big_Numbers1 [Matched]
+2024-05-31 04:55:35
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\include\openssl\dsa.h : OpenSSL_DSA [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : Big_Numbers1 [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : Big_Numbers2 [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : BLOWFISH_Constants [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : MD5_Constants [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : RIPEMD160_Constants [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : SHA1_Constants [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : SHA512_Constants [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : SHA2_BLAKE2_IVs [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : WHIRLPOOL_Constants [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : DES_Long [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : OpenSSL_DSA [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : RijnDael_AES [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : BASE64_table [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : ecc_order [Matched]
+2024-05-31 04:55:45
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libcrypto.lib : SHA3_interleaved [Matched]
+2024-05-31 04:55:46
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libssl.lib : Big_Numbers1 [Matched]
+2024-05-31 04:55:46
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libssl.lib : Big_Numbers2 [Matched]
+2024-05-31 04:55:46
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\libssl.lib : SHA3_interleaved [Matched]
+2024-05-31 04:55:47
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\lib\ossl_static.pdb : OpenSSL_DSA [Matched]
+2024-05-31 04:55:50
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\packages\YARA.OpenSSL.x86.1.1.1\YARA.OpenSSL.x86.1.1.1.nupkg : Big_Numbers1 [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : anti_dbg [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : network_udp_sock [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : network_tcp_listen [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : network_tcp_socket [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : network_dns [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : win_files_operation [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : Big_Numbers1 [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : CRC32_poly_Constant [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : CRC32_table [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : BLOWFISH_Constants [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : MD5_Constants [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : RIPEMD160_Constants [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : SHA1_Constants [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : SHA512_Constants [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : SHA2_BLAKE2_IVs [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : WHIRLPOOL_Constants [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : DES_Long [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : RijnDael_AES [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : BASE64_table [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : Chacha_256_constant [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : ecc_order [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : SHA3_constants [Matched]
+2024-05-31 04:55:51
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.exe : SipHash_big_endian_constants [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : anti_dbg [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : network_udp_sock [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : network_tcp_listen [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : network_tcp_socket [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : network_dns [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : win_files_operation [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : Str_Win32_Winsock2_Library [Matched]
+2024-05-31 04:55:53
+C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\Release\AntiMalware64.pdb : Big_Numbers1 [Matched]
+2024-05-31 04:55:55
+C:\Users\kimse\Downloads\yara-4.5.1.zip : Big_Numbers3 [Matched]
+2024-05-31 04:55:58
+C:\Users\kimse\Downloads\통합 프로그램 메뉴얼.pdf : Big_Numbers1 [Matched]
+2024-05-31 04:55:58
+C:\Users\kimse\Downloads\통합 프로그램 메뉴얼.pdf : Big_Numbers2 [Matched]
+2024-05-31 05:03:45
+file directory : C:\Users\kimse\Downloads\I3GSvcManager.exe
+-> SEH_Save [Matched]
+-> SEH_Init [Matched]
+-> vmdetect [Matched]
+-> anti_dbg [Matched]
+-> disable_dep [Matched]
+-> check_patchlevel [Matched]
+-> win_hook [Matched]
+-> escalate_priv [Matched]
+-> screenshot [Matched]
+-> keylogger [Matched]
+-> cred_ff [Matched]
+-> rat_rdp [Matched]
+-> win_mutex [Matched]
+-> win_registry [Matched]
+-> win_token [Matched]
+-> win_private_profile [Matched]
+-> win_files_operation [Matched]
+-> Str_Win32_Winsock2_Library [Matched]
+-> CRC32_poly_Constant [Matched]
+-> CRC32_table [Matched]
+2024-05-31 05:03:48
+file directory : C:\Users\kimse\Downloads\ICT_REPORTX_SETUP.exe
+-> disable_dep [Matched]
+-> escalate_priv [Matched]
+-> win_registry [Matched]
+-> win_token [Matched]
+-> win_files_operation [Matched]
+-> CRC32_poly_Constant [Matched]
+-> Delphi_Copy [Matched]
+2024-05-31 05:03:48
+file directory : C:\Users\kimse\Downloads\Machine learning basics, week 12 (Practice coding-AE).pptx
+-> Big_Numbers1 [Matched]
+2024-05-31 05:03:57
+file directory : C:\Users\kimse\Downloads\nos_setup.exe
+-> escalate_priv [Matched]
+-> screenshot [Matched]
+-> win_registry [Matched]
+-> win_token [Matched]
+-> win_files_operation [Matched]
+-> CRC32_poly_Constant [Matched]
+2024-05-31 05:06:00
+file directory : C:\Users\kimse\Downloads\ODAintegrationalDemo1-6.zip
+-> CRC32c_poly_Constant [Matched]
+2024-05-31 05:06:00
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\bazel\yara_deps.bzl
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:00
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\docs\modules\elf.rst
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:00
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\docs\modules\hash.rst
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:00
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\docs\modules\pe.rst
+-> Str_Win32_Winsock2_Library [Matched]
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:00
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\docs\writingrules.rst
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:00
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\extra\logo.ai
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\extra\old-logo.psd
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\exception.h
+-> SEH__vectored [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\grammar.c
+-> BASE64_table [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\grammar.y
+-> BASE64_table [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\dotnet\dotnet.c
+-> Big_Numbers1 [Matched]
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\authenticode-parser\countersignature.c
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe.c
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:01
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\modules\pe\pe_utils.c
+-> network_udp_sock [Matched]
+-> network_tcp_listen [Matched]
+-> network_tcp_socket [Matched]
+-> network_dns [Matched]
+-> Str_Win32_Winsock2_Library [Matched]
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:02
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\threading.c
+-> win_mutex [Matched]
+2024-05-31 05:06:02
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\libyara\tlshc\tlsh_util.c
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:02
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\BUILD.bazel
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:02
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\data\05cd06e6a202e12be22a02700ed6f1604e803ca8867277d852e8971efded0650
+-> screenshot [Matched]
+-> win_registry [Matched]
+2024-05-31 05:06:02
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\data\079a472d22290a94ebb212aa8015cdc8dd28a968c6b4d3b88acdd58ce2d3b885
+-> SEH_Save [Matched]
+-> SEH_Init [Matched]
+-> anti_dbg [Matched]
+2024-05-31 05:06:03
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\data\756684f4017ba7e931a26724ae61606b16b5f8cc84ed38a260a34e50c5016f59
+-> vmdetect [Matched]
+-> keylogger [Matched]
+-> Big_Numbers2 [Matched]
+2024-05-31 05:06:03
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\data\ca21e1c32065352d352be6cde97f89c141d7737ea92434831f998080783d5386
+-> SEH_Save [Matched]
+-> SEH_Init [Matched]
+-> win_hook [Matched]
+-> screenshot [Matched]
+-> keylogger [Matched]
+-> win_registry [Matched]
+-> win_private_profile [Matched]
+-> win_files_operation [Matched]
+-> Big_Numbers0 [Matched]
+2024-05-31 05:06:03
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\data\pe_imports
+-> SEH_Save [Matched]
+-> SEH_Init [Matched]
+-> anti_dbg [Matched]
+-> win_files_operation [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\test-dotnet.c
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\test-math.c
+-> Big_Numbers0 [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\test-pe.c
+-> Big_Numbers1 [Matched]
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\tests\test-rules.c
+-> vmdetect [Matched]
+-> Big_Numbers0 [Matched]
+-> Big_Numbers1 [Matched]
+-> Big_Numbers3 [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\compiler.obj
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\exec.obj
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\grammar.obj
+-> BASE64_table [Matched]
+2024-05-31 05:06:04
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\lexer.obj
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:05
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\dotnet\dotnet.obj
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:05
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\hash\hash.obj
+-> CRC32_poly_Constant [Matched]
+-> CRC32_table [Matched]
+2024-05-31 05:06:05
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\math\math.obj
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:05
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\modules\pe\pe_utils.obj
+-> network_udp_sock [Matched]
+-> network_tcp_listen [Matched]
+-> network_tcp_socket [Matched]
+-> network_dns [Matched]
+-> Str_Win32_Winsock2_Library [Matched]
+2024-05-31 05:06:06
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\threading.obj
+-> win_mutex [Matched]
+2024-05-31 05:06:06
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\libyara\tlshc\tlsh_impl.obj
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:06
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\FileContentIndex\3806fdaa-5cdb-49ad-b555-6b0b30e89ae3.vsidx
+-> Big_Numbers1 [Matched]
+2024-05-31 05:06:19
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\Browse.VC.db
+-> DebuggerCheck__RemoteAPI [Matched]
+-> DebuggerHiding__Active [Matched]
+-> DebuggerException__ConsoleCtrl [Matched]
+-> DebuggerException__SetConsoleCtrl [Matched]
+-> ThreadControl__Context [Matched]
+-> SEH__vectored [Matched]
+-> vmdetect [Matched]
+-> disable_dep [Matched]
+-> inject_thread [Matched]
+-> migrate_apc [Matched]
+-> win_mutex [Matched]
+-> Big_Numbers0 [Matched]
+-> Big_Numbers1 [Matched]
+-> OpenSSL_DSA [Matched]
+-> BASE64_table [Matched]
+-> SHA3_constants [Matched]
+-> SHA3_interleaved [Matched]
+2024-05-31 05:06:34
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\392e9385ad627b9c\COMMON.ipch
+-> DebuggerCheck__RemoteAPI [Matched]
+-> DebuggerHiding__Active [Matched]
+-> DebuggerException__ConsoleCtrl [Matched]
+-> DebuggerException__SetConsoleCtrl [Matched]
+-> ThreadControl__Context [Matched]
+-> SEH__vectored [Matched]
+-> vmdetect [Matched]
+-> disable_dep [Matched]
+-> inject_thread [Matched]
+-> migrate_apc [Matched]
+-> win_mutex [Matched]
+2024-05-31 05:06:49
+file directory : C:\Users\kimse\Downloads\yara-4.5.1\windows\vs2019\.vs\yara\v17\ipch\AutoPCH\550f48c3b2421182\DOTNET.ipch
+-> DebuggerCheck__RemoteAPI [Matched]
+-> DebuggerHiding__Active [Matched]
+-> DebuggerException__ConsoleCtrl [Matched]
+-> DebuggerException__SetConsoleCtrl [Matched]
+-> ThreadControl__Context [Matched]
+-> SEH__vectored [Matched]
+-> vmdetect [Matched]
+-> disable_dep [Matched]
+-> inject_thread [Matched]
+-> migrate_apc [Matched]
+-> win_mutex [Matched]
+2024-06-03 17:39:31
+file directory : C:\Users\kimse\OneDrive\바탕 화면\yara-4.5.1\windows\vs2019\x64\Release\test\estsecurity_report_2405.zip
+-> domain [Matched]
+-> IP [Matched]
+2024-06-04 01:03:42
+file directory : C:\Users\kimse\OneDrive\바탕 화면\새 폴더\test\강의 계획서.hwpx
+-> contains_base64 [Matched]
+-> domain [Matched]
+-> IP [Matched]
+-> url [Matched]
+2024-06-05 22:38:10
+file directory : C:\Users\kimse\OneDrive\바탕 화면\yara-4.5.1\windows\vs2019\x64\Release\test\강의 계획서.hwpx
+-> contains_base64 [Matched]
+-> domain [Matched]
+-> IP [Matched]
+-> url [Matched]
+2024-06-05 23:48:56
+file directory : C:\Users\kimse\OneDrive\바탕 화면\yara-4.5.1\windows\vs2019\x64\Release\test\test.hwpx
+-> contains_base64 [Matched]
+-> domain [Matched]
+-> IP [Matched]
+2024-06-05 23:51:11
+file directory : C:\Users\kimse\OneDrive\바탕 화면\yara-4.5.1\windows\vs2019\x64\Release\test\test.hwpx
+-> contains_base64 [Matched]
+-> domain [Matched]
+-> IP [Matched]
+2024-06-05 23:51:40
+file directory : C:\Users\kimse\OneDrive\바탕 화면\yara-4.5.1\windows\vs2019\x64\Release\test\test.hwpx
+-> contains_base64 [Matched]
+-> domain [Matched]
+-> IP [Matched]
+2024-06-05 23:52:16
+file directory : C:\Users\kimse\OneDrive\바탕 화면\yara-4.5.1\windows\vs2019\x64\Release\test\test.hwpx
+-> contains_base64 [Matched]
+-> domain [Matched]
+-> IP [Matched]
