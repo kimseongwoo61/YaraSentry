@@ -3,7 +3,7 @@
 ## Project Overview
 
 YaraSentry is a simple antivirus program built on the YARA library. It enables fast file inspection using detection rules provided by YARA.
-![https://github.com/kimseongwoo61/YaraSentry/blob/main/screenshot/recording.gif)
+![recording](https://github.com/kimseongwoo61/YaraSentry/blob/main/screenshot/recording.gif)
 
 ---
 
